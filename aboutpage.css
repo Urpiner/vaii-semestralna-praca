@@ -1,0 +1,27 @@
+.socialne-siete {
+    margin-right: auto;
+    margin-left: auto;
+
+    margin-bottom: 3rem;
+
+}
+
+div.socialne-siete > div i {
+    margin: auto;
+}
+
+.socialne-siete a {
+    font-size: 1.25rem;
+    font-weight: 300;
+
+    margin-bottom: 0;
+}
+
+section {
+    text-align: center;
+}
+
+section h1 {
+    padding-top: 3rem;
+    padding-bottom: 3rem;
+}
